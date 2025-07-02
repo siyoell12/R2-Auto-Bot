@@ -19,9 +19,9 @@ Add LP pairs via router contracts, including Matrix Router:
 
   - R2 + R2USD
 
-  - R2USD + USDC (via Router Matrix)
+  - R2USD + USDC 
 
-  - sR2USD + R2USD (via Router Matrix)
+  - sR2USD + R2USD 
 
 - 🪙 Staking Support
 
