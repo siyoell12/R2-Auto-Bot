@@ -8,26 +8,26 @@ Automatically approves all necessary tokens before actions begin.
 
 - 🔁 Token Swaps
 
-Swap R2 → USDC
+  - Swap R2 → USDC
 
-Swap R2 → R2USD
+  - Swap R2 → R2USD
 
 - 💧 Liquidity Provision
 Add LP pairs via router contracts, including Matrix Router:
 
-R2 + USDC
+  - R2 + USDC
 
-R2 + R2USD
+  - R2 + R2USD
 
-R2USD + USDC (via Router Matrix)
+  - R2USD + USDC (via Router Matrix)
 
-sR2USD + R2USD (via Router Matrix)
+  - sR2USD + R2USD (via Router Matrix)
 
 - 🪙 Staking Support
 
-Stake R2USD → sR2USD
+  - Stake R2USD → sR2USD
 
-Stake WBTC
+  - Stake WBTC
 
 🔐 Access Policy
 This script is private and access is restricted.
